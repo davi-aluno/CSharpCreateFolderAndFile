@@ -1,0 +1,13 @@
+/home/davi/development/exercicios/Directory/bin/Debug/netcoreapp3.1/Directory
+/home/davi/development/exercicios/Directory/bin/Debug/netcoreapp3.1/Directory.deps.json
+/home/davi/development/exercicios/Directory/bin/Debug/netcoreapp3.1/Directory.runtimeconfig.json
+/home/davi/development/exercicios/Directory/bin/Debug/netcoreapp3.1/Directory.runtimeconfig.dev.json
+/home/davi/development/exercicios/Directory/bin/Debug/netcoreapp3.1/Directory.dll
+/home/davi/development/exercicios/Directory/bin/Debug/netcoreapp3.1/Directory.pdb
+/home/davi/development/exercicios/Directory/obj/Debug/netcoreapp3.1/Directory.csprojAssemblyReference.cache
+/home/davi/development/exercicios/Directory/obj/Debug/netcoreapp3.1/Directory.AssemblyInfoInputs.cache
+/home/davi/development/exercicios/Directory/obj/Debug/netcoreapp3.1/Directory.AssemblyInfo.cs
+/home/davi/development/exercicios/Directory/obj/Debug/netcoreapp3.1/Directory.csproj.CoreCompileInputs.cache
+/home/davi/development/exercicios/Directory/obj/Debug/netcoreapp3.1/Directory.dll
+/home/davi/development/exercicios/Directory/obj/Debug/netcoreapp3.1/Directory.pdb
+/home/davi/development/exercicios/Directory/obj/Debug/netcoreapp3.1/Directory.genruntimeconfig.cache
